@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Новости сайта</title>
+        <link>https://example.com</link>
+        <description>Последние обновления</description>
+        <item>
+            <title>Новость 1</title>
+            <link>https://example.com/news1</link>
+            <description>Описание новости 1</description>
+        </item>
+        <item>
+            <title>Новость 2</title>
+            <link>https://example.com/news2</link>
+            <description>Описание новости 2</description>
+        </item>
+    </channel>
+</rss>

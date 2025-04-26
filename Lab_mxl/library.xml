@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>1984</title>
+        <author>Джордж Оруэлл</author>
+        <year>1949</year>
+        <genre>Дистопия</genre>
+        <price>500.00</price>
+    </book>
+    <book id="2">
+        <title>Гарри Поттер и философский камень</title>
+        <author>Джоан Роулинг</author>
+        <year>1997</year>
+        <genre>Фэнтези</genre>
+        <price>750.50</price>
+    </book>
+    <book id="3">
+        <title>Три товарища</title>
+        <author>Эрих Мария Ремарк</author>
+        <year>1936</year>
+        <genre>Роман</genre>
+        <price>450.75</price>
+    </book>
+    <book id="4">
+        <title>Убить пересмешника</title>
+        <author>Харпер Ли</author>
+        <year>1960</year>
+        <genre>Роман</genre>
+        <price>600.00</price>
+    </book>
+</library>
+
